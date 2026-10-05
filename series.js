@@ -55,60 +55,6 @@ window.SERIES_DATA =
         "url": "#"
       }
     ]
-  },
-  {
-    "title": "POP GOES EARTHBOUND",
-    "tagline": "Pop-punk meets the strangest RPG ever made",
-    "badge": "MUSIC",
-    "stripe": "#f5b942",
-    "description": "Music edits pairing 2000s pop-punk with a cult classic RPG that was already weird enough. Somehow they fit.",
-    "specs": {
-      "FORMAT": "Music edits",
-      "STATUS": "Active",
-      "HOME": "YouTube"
-    },
-    "links": [
-      {
-        "label": "PRESS PLAY",
-        "url": "#"
-      }
-    ]
-  },
-  {
-    "title": "FOND-88",
-    "tagline": "Recovered Soviet footage that never happened",
-    "badge": "FOUND",
-    "stripe": "#f5b942",
-    "description": "An alternate-history found-footage series. Archival texture, wrong timelines, and documents nobody filed. Best watched in order, worst explained out loud.",
-    "specs": {
-      "FORMAT": "Found footage",
-      "STATUS": "Active",
-      "HOME": "YouTube"
-    },
-    "links": [
-      {
-        "label": "OPEN THE ARCHIVE",
-        "url": "#"
-      }
-    ]
-  },
-  {
-    "title": "DARK CINEMA",
-    "tagline": "Kill counts, body counts, and the movies that earn them",
-    "badge": "ONGOING",
-    "stripe": "#ff3d7f",
-    "description": "Horror breakdowns that keep score. Every slasher, creature feature, and space franchise gets its numbers run, its best kills ranked, and its worst decisions questioned.",
-    "specs": {
-      "FORMAT": "Long-form video",
-      "STATUS": "Active",
-      "HOME": "YouTube"
-    },
-    "links": [
-      {
-        "label": "WATCH THE CHANNEL",
-        "url": "#"
-      }
-    ]
   }
 ]
 ;
